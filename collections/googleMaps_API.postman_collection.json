@@ -10,7 +10,7 @@
       "name": "Add_place",
       "event": [
         {
-          "listen": "test",
+          "listen": "test",   test
           "script": {
             "exec": [
               "pm.test(\"Status code is 200\", function () {\r",
